@@ -1,0 +1,39 @@
+{
+  "properties": [
+    {
+      "name": "api.host.baseurl",
+      "type": "java.lang.String",
+      "description": "Description for api.host.baseurl."
+    },
+    {
+      "name": "game.settings.goal",
+      "type": "java.lang.String",
+      "description": "Description for game.settings.goal."
+    },
+    {
+      "name": "game.settings.turnTolerance",
+      "type": "java.lang.String",
+      "description": "Description for game.settings.turnTolerance."
+    },
+    {
+      "name": "game.settings.failureTolerance",
+      "type": "java.lang.String",
+      "description": "Description for game.settings.failureTolerance."
+    },
+    {
+      "name": "game.settings.minLives",
+      "type": "java.lang.String",
+      "description": "Description for game.settings.minLives."
+    },
+    {
+      "name": "game.settings.itemMinPrice",
+      "type": "java.lang.String",
+      "description": "Description for game.settings.itemMinPrice."
+    },
+    {
+      "name": "game.settings.gameStrategy",
+      "type": "java.lang.String",
+      "description": "Description for game.settings.gameStrategy."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+spring:
+  datasource:
+    url: jdbc:h2:mem:test
+  jpa:
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.H2Dialect
+api:
+  host:
+    baseurl: https://dragonsofmugloar.com
+
+game:
+  settings:
+    goal: 1000
+    turnTolerance: 2
+    failureTolerance: 2
+    minLives: 2
+    itemMinPrice: 99
+    gameStrategy: highestRewardGameStrategy

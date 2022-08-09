@@ -1,0 +1,9 @@
+{
+  "success": true,
+  "lives": 3,
+  "gold": 10,
+  "score": 10,
+  "highScore": 0,
+  "turn": 1,
+  "message": "You successfully solved the mission!"
+}
